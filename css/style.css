@@ -6,3 +6,35 @@
     height: 100vh;
     z-index: -100;
 }
+.fondo2  {
+    background-image: url(../assets/img/fondo2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    z-index: -100;
+}
+.fondo3  {
+    background-image: url(../assets/img/fondo3.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    z-index: -100;
+}
+.fondo4  {
+    background-image: url(../assets/img/fondo4.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    z-index: -100;
+}
+.fondo5  {
+    background-image: url(../assets/img/fondo5.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    z-index: -100;
+}
