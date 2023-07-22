@@ -2,3 +2,51 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box; }
+
+.fondo {
+  background-image: url(../assets/img/fondo.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  z-index: -100; }
+
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh; }
+
+footer {
+  margin-top: auto; }
+
+.fondo2 {
+  background-image: url(../assets/img/fondo2.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  z-index: -100; }
+
+.fondo3 {
+  background-image: url(../assets/img/fondo3.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  z-index: -100; }
+
+.fondo4 {
+  background-image: url(../assets/img/fondo4.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  z-index: -100; }
+
+.fondo5 {
+  background-image: url(../assets/img/fondo5.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  z-index: -100; }
