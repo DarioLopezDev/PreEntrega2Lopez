@@ -1,4 +1,13 @@
-* {
-margin:0;
-padding:0;
-}
+//importo variables
+@import "../scss/utilities/variables";
+
+//importo Reset
+@import "../scss/globals/reset";
+
+//importo views
+@import "./views/home";
+@import "./views/nosotros";
+@import "./views/productos";
+@import "./views/ofertas";
+@import "./views/contacto";
+
