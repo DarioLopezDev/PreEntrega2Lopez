@@ -1,13 +1,15 @@
-//importo variables
+//importo variables y condicionales
 @import "../scss/utilities/variables";
+@import "../scss/utilities/responsive";
+@import "../scss/utilities/condicionales";
 
 //importo Reset
 @import "../scss/globals/reset";
 
 //importo views
-@import "./views/home";
-@import "./views/nosotros";
-@import "./views/productos";
-@import "./views/ofertas";
-@import "./views/contacto";
+@import "./pages/home";
+@import "./pages/nosotros";
+@import "./pages/productos";
+@import "./pages/ofertas";
+@import "./pages/contacto";
 
