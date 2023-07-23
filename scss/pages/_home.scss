@@ -13,11 +13,12 @@ body{
     min-height: 100vh;
 }
 
-footer{margin-top: auto;
+footer{
+        margin-top: auto;
 }
 #section1 {
     
-    background: radial-gradient(circle, rgba(0,0,0,1) 0%, rgba(157,158,161,0.29744397759103647) 47%, rgba(0,0,0,1) 92%);
+    background: radial-gradient(circle, $colorpagina 0%, rgba(157,158,161,0.29744397759103647) 47%, $colorpagina 92%);
 }
 
 a:hover{
