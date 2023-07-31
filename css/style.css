@@ -20,8 +20,10 @@
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
-  height: 100vh;
-  z-index: -100; }
+  min-height: 100vh;
+  z-index: -100;
+  display: grid;
+  grid-template-rows: auto 1 fr auto; }
 
 body {
   display: flex;
