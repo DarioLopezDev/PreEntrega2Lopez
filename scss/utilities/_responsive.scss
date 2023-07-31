@@ -13,7 +13,13 @@
 @media only screen and (min-width:576px) {
     #logolya {
         width: 100%;
-        
-
+    }
+}
+@media only screen and (max-width:576px) {
+    #section1 {
+        width: 85%;
+    }
+    iframe  {
+        width: 85%;
     }
 }
