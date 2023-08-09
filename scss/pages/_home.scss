@@ -12,8 +12,7 @@
 body{
     display:flex;
     flex-direction: column;
-    min-height: 100vh;
-    
+    min-height: 100vh; 
 }
 
 footer{
@@ -21,12 +20,20 @@ footer{
 
 }
 #section1 {
-    
     background: radial-gradient(circle, $colorpagina 0%, rgba(157,158,161,0.29744397759103647) 47%, $colorpagina 92%);
+    top: 50%;
+    right: 50%;
+    margin: 0 auto;
 }
 
 a:hover{
     animation: tada; 
     animation-duration: 1s; 
 }
-
+#fondo_glass{
+    align-self: center;
+    margin: 0 auto;
+}
+footer ul {
+    list-style: none;
+}
